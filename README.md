@@ -6,6 +6,3 @@ e.g. A tetrahedral die can be made from four equilateral triangles. If the sides
 
 Investigate how your program scales for moderately large numbers, such as n=1000.
 
-``math #yourmathlabel
-a + b = c
-```
